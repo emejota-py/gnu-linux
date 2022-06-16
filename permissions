@@ -1,0 +1,47 @@
+-----------
+PERMISSIONS
+-----------
+  
+  user
+    user owner of the file/ directory
+  group
+    permissions the owner group has
+  other
+    permissions of any other system user
+    
+  meaning
+    r = read
+    w = write
+    x = execute
+  
+    file
+      r
+      w
+      x
+
+    directory
+      r
+      w
+      x
+
+  Permission numbers and their binary relation
+    0 = ---
+      000
+    1 = --x
+      001
+    2 = -w-
+      010
+    3 = -wx
+      011
+    4 = r-
+      100
+    5 = r-x
+      101
+    6 = rw-
+      110
+    7 = rwx
+      111
+      
+  COMMANDS
+    chmod
+      $chmod
