@@ -10,9 +10,12 @@ GNU-LINUX'S PATH SHEET
  
  /etc
   configuration files
+  
+    /etc/passwd
+     this file contains all users on the system
  
  /proc
- process information
+  process information
  
  /dev
    devices files
