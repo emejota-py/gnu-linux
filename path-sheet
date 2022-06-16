@@ -1,0 +1,49 @@
+GNU-LINUX'S PATH SHEET
+
+----------------------
+
+ /bin
+  user binaries
+ 
+ /sbn
+  system binaries
+ 
+ /etc
+  configuration files
+ 
+ /proc
+ process information
+ 
+ /dev
+   devices files
+ 
+ /var
+   varibles
+ 
+ /tmp
+   temporary files
+ 
+ /usr
+   user system resources
+ 
+ /home
+  home directories
+ 
+ /boot
+  boot load files
+ 
+ /lib
+  system libraries
+ 
+ /opt
+  optinal add-on apps
+ 
+ /mnt
+  mount directory
+ 
+ /media
+  removable devices
+ 
+ /srv
+  service data
+ 
