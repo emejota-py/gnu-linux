@@ -1,7 +1,6 @@
 
 # METACHARACTERS AND SPECIAL SYMBOLS
 
-
   \* 
   
   ?
