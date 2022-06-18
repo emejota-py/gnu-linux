@@ -1,8 +1,8 @@
 ----------------------------------
-METACHARACTERS AND SPECIAL SYMBOLS
+# METACHARACTERS AND SPECIAL SYMBOLS
 ----------------------------------
 
-  * 
+  \* 
   
   ?
 
