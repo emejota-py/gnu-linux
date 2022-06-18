@@ -41,8 +41,8 @@ only affected rights are overwritten.
 * `-` Removes access permissions to the class.
 * `=` If the file permissions of a user class are to be renewed, regardless of what rights it had before.
 
-### Commands
-#### chmod
+## Commands
+### chmod
 ```sh
 $sudo chmod [options] mode file/directory
 #chmod [options] mode file/directory
