@@ -4,7 +4,7 @@
 auto line wrap in VSCode: alt + z
 -->
 
-This is the human-readable representation and description of the files and folders' location on a GNU Linux computer system. 
+This is the human-readable representation and description of files and folders' location on a GNU Linux computer system. 
 
 ```
  /bin
